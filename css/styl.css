@@ -1,3 +1,7 @@
+body
+{
+  background-image: url("../img/segundo.jpg");
+}
 #titulo
 {
   background: #26A69A;
@@ -14,3 +18,24 @@
 {
   background: #29B6F6;
 }
+
+#headerh1
+{
+  text-align: center;
+  color: white;
+  margin: 150px 0px 0px 0px;
+}
+#headerp
+{
+  text-align: center;
+  color: white;
+}
+.navbar-default {
+  background-color: rgba(248, 248, 248, 0);
+  border-color: rgba(248, 248, 248, 0);
+
+}
+.navbar-default .navbar-nav>li>a {
+  color: #FFFFFF;
+}
+
